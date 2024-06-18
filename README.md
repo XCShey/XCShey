@@ -1,10 +1,11 @@
 ### Hi！我是小车神XCShey！ 👋
 ### 欢迎你！！！
-**我**
- -是10后初中生
- -是一名小极客
- -爱好广泛
- -也喜欢骑车（山地仔）
+## 我
+- 是10后初中生🧒
+- 爱好广泛💙
+- 是一名小极客📱
+- 喜欢骑车（山地仔）🚲
+- 喜欢编程💻
 
 <!--
 **XCShey/XCShey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
