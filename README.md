@@ -14,9 +14,13 @@
 ---
 ## 链接直达↡↡
 [个人主页（维护中）](https://hp.thebxcshey.top)
+
 [博客](https://thebxcshey.top)
+
 [bilibili主页](https://b23.tv/YaCS8uN)
+
 [Facebook](https://www.facebook.com/profile.php?id=61551619216164&mibextid=2JQ9oc)
+
 [YouTube](https://youtube.com/@hey-XCR?si=vCH4LAk8_pt1HyfI)
 <!--
 **XCShey/XCShey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
