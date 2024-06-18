@@ -1,5 +1,6 @@
 ### Hi！我是小车神XCShey！ 👋
 ### 欢迎你！！！
+### 联系我»»https://BXCShey@outlook.com
 ---
 ## »»我
 - 是10后初中生🧒
