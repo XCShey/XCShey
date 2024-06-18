@@ -1,6 +1,7 @@
 ### Hi！我是小车神XCShey！ 👋
 ### 欢迎你！！！
-### 联系我»»[邮件](https://BXCShey@outlook.com)
+### 联系我»»
+- 邮件[BXCShey@outlook.com](https://BXCShey@outlook.com)
 ---
 ## »»我
 - 是10后初中生🧒
@@ -18,7 +19,7 @@
 
 [博客](https://thebxcshey.top)
 
-[bilibili主页](https://b23.tv/YaCS8uN)
+bilibili[](https://b23.tv/YaCS8uN)
 
 [Facebook](https://www.facebook.com/profile.php?id=61551619216164&mibextid=2JQ9oc)
 
