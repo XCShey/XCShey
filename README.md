@@ -11,6 +11,9 @@
 ## »»愿望
 - 换掉配置超低的手机和电脑
 - 以后换一台软尾山地车
+---
+## 链接直达↡↡
+[bilibili](https://b23.tv/YaCS8uN)
 <!--
 **XCShey/XCShey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
