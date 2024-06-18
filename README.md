@@ -1,7 +1,7 @@
 ### Hi！我是小车神XCShey！ 👋
 ### 欢迎你！！！
 ### 联系我»»
-- 邮件[BXCShey@outlook.com](https://BXCShey@outlook.com)
+- 邮件：[BXCShey@outlook.com](https://BXCShey@outlook.com)
 ---
 ## »»我
 - 是10后初中生🧒
@@ -19,11 +19,11 @@
 
 [博客](https://thebxcshey.top)
 
-bilibili[飞翔的小车神hey](https://b23.tv/YaCS8uN)
+bilibili [飞翔的小车神hey](https://b23.tv/YaCS8uN)
 
-[Facebook](https://www.facebook.com/profile.php?id=61551619216164&mibextid=2JQ9oc)
+Facebook [](https://www.facebook.com/profile.php?id=61551619216164&mibextid=2JQ9oc)
 
-[YouTube](https://youtube.com/@hey-XCR?si=vCH4LAk8_pt1HyfI)
+YouTube [](https://youtube.com/@hey-XCR?si=vCH4LAk8_pt1HyfI)
 <!--
 **XCShey/XCShey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
