@@ -13,7 +13,7 @@
 - 以后换一台软尾山地车
 ---
 ## 链接直达↡↡
-[bilibili] (https://b23.tv/YaCS8uN)
+[https://b23.tv/YaCS8uN](bilibili)
 <!--
 **XCShey/XCShey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
