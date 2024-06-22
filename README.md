@@ -1,9 +1,9 @@
 ### **Hi！我是小车神XCShey！** 👋
 ### 欢迎你！！！
-### 联系我
+#### 联系我
 - 邮件：[BXCShey@outlook.com](mailtp:BXCShey@outlook.com)
 
-  ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey)
+  
 ---
 ## »»我
 - 是10后初中生🧒
@@ -11,6 +11,12 @@
 - 是一名小极客📱
 - 喜欢骑车（山地仔）🚲
 - 喜欢编程💻
+  
+  ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey&show_icons=true&theme=transparent&locale=cn)
+  ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey&show_icons=true&theme=transparent&locale=en)
+  
+  ![Top Langs](https://github-readme-stats-inky-three-41.vercel.app/api/top-langs/?username=XCShey&layout=donut&theme=synthwave&locale=cn)
+  ![Top Langs](https://github-readme-stats-inky-three-41.vercel.app/api/top-langs/?username=XCShey&layout=donut&theme=synthwave&locale=en)
 ---
 ## »»愿望
 - [ ] 换掉配置超低的手机和电脑
