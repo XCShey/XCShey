@@ -1,7 +1,9 @@
 ### **Hi！我是小车神XCShey！** 👋
 ### 欢迎你！！！
 ### 联系我
-- 邮件：[BXCShey@outlook.com](https://BXCShey@outlook.com)
+- 邮件：[BXCShey@outlook.com](mailtp:BXCShey@outlook.com)
+
+  ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey)
 ---
 ## »»我
 - 是10后初中生🧒
