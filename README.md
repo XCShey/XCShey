@@ -23,7 +23,9 @@
 - [ ] 以后换一台软尾山地车
 ---
 ## »»我的项目
-![Readme Card](https://github-readme-stats-inky-three-41.vercel.app/api/pin/?username=XCShey&repo=XCShey&theme=ambient_gradient)
+![Readme Card](https://github-readme-stats-inky-three-41.vercel.app/api/pin/?username=XCShey&repo=XCShey&theme=ambient_gradient&show_owner=true)
+![Readme Card](https://github-readme-stats-inky-three-41.vercel.app/api/pin/?username=XCShey&repo=homepage&theme=catppuccin_mocha&show_owner=true)
+
 ---
 **[个人主页（维护中）](https://hp.thebxcshey.top)**
 
