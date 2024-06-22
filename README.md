@@ -22,7 +22,9 @@
 - [ ] 换掉配置超低的手机和电脑
 - [ ] 以后换一台软尾山地车
 ---
-## 链接直达↡↡
+## »»我的项目
+![Readme Card](https://github-readme-stats-inky-three-41.vercel.app/api/pin/?username=XCShey&repo=XCShey&theme=ambient_gradient)
+---
 **[个人主页（维护中）](https://hp.thebxcshey.top)**
 
 **[XCShey博客](https://thebxcshey.top)**
