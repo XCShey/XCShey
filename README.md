@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats-inky-three-41.vercel.app/api/pin/?username=XCShey&repo=homepage&theme=catppuccin_mocha&show_owner=true)](https://github.com/XCShey/homepage)
 
 ---
-**[个人主页（维护中）](https://hp.thebxcshey.top)**
+**[个人主页（可打开但功能不全）](https://hp.thebxcshey.top)**
 
 **[XCShey博客](https://thebxcshey.top)**
 
