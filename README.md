@@ -9,7 +9,7 @@
 - 是10后初中生🧒
 - 爱好广泛💙
 - 是一名小极客📱
-- 喜欢骑车（山地仔）🚲
+- 喜欢骑山地车🚲
 - 喜欢编程💻
   
   ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey&show_icons=true&theme=transparent&locale=cn)
@@ -19,8 +19,8 @@
   ![Top Langs](https://github-readme-stats-inky-three-41.vercel.app/api/top-langs/?username=XCShey&layout=donut&theme=synthwave&locale=en)
 ---
 ## »»愿望
-- [ ] 换掉配置超低的手机和电脑
-- [ ] 以后换一台软尾山地车
+- [ ] 小米10s
+- [ ] Extention A150
 ---
 ## »»我的项目
 [![Readme Card](https://github-readme-stats-inky-three-41.vercel.app/api/pin/?username=XCShey&repo=XCShey&theme=ambient_gradient&show_owner=true)](https://github.com/XCShey/XCShey)
