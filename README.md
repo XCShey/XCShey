@@ -4,10 +4,7 @@
 成分复杂  已被学校镇压
 Python C++
   
-  ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey&show_icons=true&theme=transparent&locale=cn)
   ![XCShey's GitHub stats](https://github-readme-stats-inky-three-41.vercel.app/api?username=XCShey&show_icons=true&theme=transparent&locale=en)
-  
-  ![Top Langs](https://github-readme-stats-inky-three-41.vercel.app/api/top-langs/?username=XCShey&layout=donut&theme=synthwave&locale=cn)
   ![Top Langs](https://github-readme-stats-inky-three-41.vercel.app/api/top-langs/?username=XCShey&layout=donut&theme=synthwave&locale=en)
 
 ## »»我的项目
